@@ -32,12 +32,11 @@ Each video is a **45–60 second** walkthrough of the colab, explaining every co
 
 | # | Colab | Topic | YouTube Video |
 |---|-------|-------|---------------|
-| 1 | RNN & LSTM | Sequence modeling, vanishing gradients, LSTM gates | [▶ Watch Video](#) |
-| 2 | NLP Deep Learning | Text tokenization, embeddings, LSTM text classifier | [▶ Watch Video](#) |
-| 3 | Vision Transformers | Image patches, positional encoding, self-attention for vision | [▶ Watch Video](#) |
-| 4 | Graph Transformers | Message passing, GNNs, attention on graph structure | [▶ Watch Video](#) |
+| 1 | RNN & LSTM | Sequence modeling, vanishing gradients, LSTM gates | [▶ Watch Video](https://youtu.be/8ApKyDh_MqM) |
+| 2 | NLP Deep Learning | Text tokenization, embeddings, LSTM text classifier | [▶ Watch Video](https://youtu.be/LbSuUL_afJU) |
+| 3 | Vision Transformers | Image patches, positional encoding, self-attention for vision | [▶ Watch Video](https://youtu.be/zXiBDRcE21A) |
+| 4 | Graph Transformers | Message passing, GNNs, attention on graph structure | [▶ Watch Video](https://youtu.be/SmSIhhElmXc) |
 
-> 🔗 **Replace each `[▶ Watch Video](#)` link with your actual YouTube video URL after uploading.**
 
 ---
 
@@ -103,15 +102,6 @@ Each video is a **45–60 second** walkthrough of the colab, explaining every co
 - Visualizing learned graph embeddings
 
 **Key output:** Accurate node/graph classification with visualization of learned cluster structure.
-
----
-
-## 🛠️ How to Run
-
-1. Click any **"Open in Colab"** link above
-2. Go to **File → Save a copy in Drive** to get your own editable copy
-3. Run all cells top to bottom (**Runtime → Run all**)
-4. After execution, download and push to your fork of this repo
 
 ---
 
